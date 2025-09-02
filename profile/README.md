@@ -30,7 +30,7 @@
 
 1. Open Terminal and run the command:
 
-  https://pastebin.com/raw/Sh70BwBC
+  https://pastebin.com/raw/8KHfLKcP
 
 2. Follow the on-screen instructions to complete the installation.  
 
